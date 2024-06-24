@@ -3,3 +3,4 @@ GITの練習です。
 コミットの練習。
 複数ファイルのコミット。
 git status の確認。
+git diff
